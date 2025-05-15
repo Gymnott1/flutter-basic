@@ -8,3 +8,17 @@ A new Flutter project.
 # Visuals
 
 ![picture one](/p1.png)
+
+
+
+![picture one](/p2.png)
+
+
+![picture one](/p3.png)
+
+
+![picture one](/p4.png)
+
+
+
+
